@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	bazeltest.Foo()
+	foo.Bar()
 }
