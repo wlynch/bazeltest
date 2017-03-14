@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/wlynch/bazeltest/foo"
+	"wlynch/bazeltest/foo"
 )
 
 func main() {
